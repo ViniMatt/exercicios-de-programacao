@@ -1,2 +1,2 @@
 # exercicios-de-programacao
-exercicios
+Criado para registrar meus estudos em logica de programação e POO.
